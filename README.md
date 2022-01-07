@@ -4,7 +4,7 @@ This is the jekyll source code for [weboasis.github.io](https://weboasis.github.
 
 Please see [index.md](./index.md)
 
-Its using the [minima](https://github.com/jekyll/minima)
+Its using the [minima](https://github.com/jekyll/minima) theme
 
 # Links 
 
