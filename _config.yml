@@ -13,3 +13,4 @@ exclude:
   - README.md
   - "**/*.cache"
   - "*.cache"
+  - LICENSE
