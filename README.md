@@ -1,7 +1,5 @@
 # Weboasis Refugees
 
-Weboasis Refugees
-
 This repo is a help guide the weary travellers who are lost in the web desert.
 
 If you are seeing this that means you were probably a part of Weboasis previosly.
